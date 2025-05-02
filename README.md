@@ -2,7 +2,7 @@
 ![TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxxxthis&show_icons=true&title_color=EEE&icon_color=FF55EE&text_color=CCC&bg_color=323232)
 
 
-### 개발언어
+###
 
 ![Android](https://img.shields.io/badge/-Android-00c717?style=for-the-badge&logo=android&logoColor=fff)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-f2850b?style=for-the-badge&logo=kotlin&logoColor=fff)
